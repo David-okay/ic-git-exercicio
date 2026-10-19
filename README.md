@@ -1,4 +1,4 @@
-# Tarefa 1 git
+# Projeto de Introdução à computação - versão A
 Olá leitor isto é a primeira tarefa no git
 ### Funcionalidades
 * funcionalidade 1
